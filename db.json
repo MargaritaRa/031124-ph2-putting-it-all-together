@@ -1,0 +1,29 @@
+{
+  "raccoons": [
+    {
+      "id": "1",
+      "name": "Bob",
+      "img_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg/1200px-Raccoon_in_Central_Park_%2835264%29.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Steve",
+      "img_url": "https://i.natgeofe.com/n/8271db90-5c35-46bc-9429-588a9529e44a/raccoon_thumb_3x4.JPG"
+    },
+    {
+      "id": "3",
+      "name": "Bandit",
+      "img_url": "https://s7d1.scene7.com/is/image/isp/wawmraccoon-mkr?qlt=100&wid=1200&ts=1704813358043&$ImageComponent$&fit=constrain"
+    },
+    {
+      "id": "0de7",
+      "name": "Joey",
+      "img_url": "https://i.natgeofe.com/k/6289c775-a06c-426a-badb-8d181a55237b/raccoon-grass_2x1.jpg"
+    },
+    {
+      "id": "fb1d",
+      "name": "Contiki",
+      "img_url": "https://www.ndow.org/wp-content/uploads/2021/10/Family-of-Raccoons.jpg"
+    }
+  ]
+}
